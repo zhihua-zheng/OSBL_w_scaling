@@ -1,0 +1,25 @@
+name: scaOSBL
+channels:
+    - conda-forge
+dependencies:
+    - python=3.8
+    - dask
+    - gsw
+#    - cdsapi   # API to access the Copernicus Climate Data Store
+#    - h5netcdf
+    - netcdf4
+    - ipympl
+    - jupyterlab
+    - jupyter-resource-usage
+#    - jupyterlab-variableinspector
+    - matplotlib
+#    - nodejs
+    - numpy
+    - bottleneck # fast NaN-skipping and rolling window aggregations
+    - numba
+    - pandas
+    - xarray=2022.10.0
+#    - pyspark
+    - scipy
+    - tqdm
+    - cartopy>=0.18
