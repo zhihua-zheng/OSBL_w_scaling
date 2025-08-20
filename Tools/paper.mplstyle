@@ -1,0 +1,22 @@
+text.usetex: False
+font.family: Open Sans
+font.size: 12
+lines.linewidth: 1.2
+legend.fontsize: 12
+legend.framealpha: 0.6
+legend.edgecolor: 0.6
+xtick.labelsize: 10
+ytick.labelsize: 10
+axes.linewidth: 1.2
+axes.titlepad: 7 # pad between axes and title in points (default: 6)
+axes.labelpad: 5 # space between label and axis (default: 4)
+axes.labelsize: 12.5
+axes.grid: True
+axes.grid.which: both
+grid.color: 'gray'
+grid.linewidth: 0.6
+grid.linestyle: --
+grid.alpha: 0.2
+mathtext.default: sf # The default font to use for math (default: 'it')
+errorbar.capsize: 0
+savefig.dpi: 300
