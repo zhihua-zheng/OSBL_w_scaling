@@ -1,6 +1,7 @@
 /Figures
 /Code_share
 /Tools/__pycache__/
+__init__.py
 .ipynb_checkpoints/
 *.DS_Store
 untitled.*

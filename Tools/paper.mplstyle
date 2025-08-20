@@ -17,6 +17,6 @@ grid.color: 'gray'
 grid.linewidth: 0.6
 grid.linestyle: --
 grid.alpha: 0.2
-mathtext.default: sf # The default font to use for math (default: 'it')
+mathtext.default: it #sf # The default font to use for math (default: 'it')
 errorbar.capsize: 0
 savefig.dpi: 300

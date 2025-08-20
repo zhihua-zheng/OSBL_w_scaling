@@ -4,7 +4,7 @@ from matplotlib import font_manager
 from matplotlib.colors import LinearSegmentedColormap
 
 
-font_dirs = '../Data/OpenSans'
+font_dirs = '/Users/zhihua/Documents/Work/Research/Projects/PhD-projects/Data/OpenSans'
 font_files = font_manager.findSystemFonts(fontpaths=font_dirs)
 
 for font_file in font_files:
