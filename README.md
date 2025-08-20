@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/1041028949.svg)](https://doi.org/10.5281/zenodo.16911679)
 
 **This repository contains the scripts used in the paper "Scaling Near-Surface Observations of Turbulent Vertical Velocity in the Ocean. Part I: Surface Layer", J. Phys. Oceanogr.**
 
